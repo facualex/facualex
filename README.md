@@ -1,6 +1,6 @@
 ### Hi there, I'm Facundo - aka [facualex][website] 👋
 
-## I'm a Student, Developer, and Human!
+## I'm a Student, Full Stack Dev, and Human!
 - 🔭 I’m currently working in [Keirón][keiron] and also on developing a startup!
 - 🌱 I’m currently learning, and I always will be. Machine learning gets my interest atm
 - 🥅 2020 Goals: Get solid bases on machine learning and work on my personal projects 
@@ -39,8 +39,6 @@
 ---
 
 <img align="left" alt="facualex's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=facualex&show_icons=true&hide_border=true&count_private=true" />
-
----
 
 <br />
 <br />
