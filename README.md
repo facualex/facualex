@@ -1,7 +1,7 @@
 ### Hi there, I'm Facundo - aka [facualex][website] 👋
 
 ## I'm a Student, Full Stack Dev, and Human!
-- 🔭 I’m currently working in [Keirón][keiron] and also on developing a startup!
+- 🔭 I’m currently working as freelance and on personal projects!
 - 🌱 I’m currently learning, and I always will be. Machine learning gets my interest atm
 - 🥅 2020 Goals: Get solid bases on machine learning and work on my personal projects 
 - I like to play Spanish guitar and I'm a music aficionado
