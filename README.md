@@ -4,7 +4,7 @@
 - 🔭 I’m currently working to land my first role as a Data Engineer! 
 - 🌱 I’m currently learning, and always will be. My interest right now is on the data field! 
 - 🥅 2024 Goals: Get solid bases on Data Engineer technologies, work on personal projects and grow in the field.
-- I like to play Spanish guitar (Flamenco mainly) and I'm a music aficionado!
+- I'm a music aficionado!
 
 ### Connect with me:
 
