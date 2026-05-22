@@ -1,6 +1,6 @@
 ### Hi, I'm Facundo 👋
 
-## Data Engineer | Cloud-Native Data Platforms | Software Engineering Background
+## Data Engineer | CS Background
 
 - 🔧 I design and build data pipelines and analytics platforms with a strong focus on scalability, reliability, and architecture.
 
