@@ -20,7 +20,7 @@ Transitioning from legacy orchestration stack (Apache NiFi) to modern cloud DE.
 
 ### Background
 
-Built and maintained data pipelines in production using Apache NiFi and PowerCenter.
+Built and maintained data pipelines in production using Apache NiFi.
 Experienced with SQL across analytical and transactional workloads.
 Currently building toward AWS-native DE roles — end-to-end pipeline on
 S3 · Glue · Athena · Airflow in progress.
